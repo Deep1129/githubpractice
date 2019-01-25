@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         Log.i("msg","for commit");
+        Log.i("msg","commit for first branch");
     }
 }
